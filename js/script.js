@@ -17,3 +17,6 @@ else if (age > 65){
 
 // 4) Applicazione sconto
 totalPrice = totalPrice - (totalPrice * discount);
+
+// 5) Formattazione risultato
+const formattedPrice = totalPrice.toFixed(2);
