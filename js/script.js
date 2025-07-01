@@ -14,6 +14,9 @@ if (age < 18){
 else if (age > 65){
   discount = 0.40;
 }
+else {
+	discount = 0;
+}
 
 // 4) Applicazione sconto
 totalPrice = totalPrice - (totalPrice * discount);
