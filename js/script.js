@@ -20,3 +20,7 @@ totalPrice = totalPrice - (totalPrice * discount);
 
 // 5) Formattazione risultato
 const formattedPrice = totalPrice.toFixed(2);
+
+// 6) Output
+alert(`Il prezzo del biglietto è €${formattedPrice}`);
+console.log(`Il prezzo del biglietto è €${formattedPrice}`);

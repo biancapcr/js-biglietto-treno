@@ -24,6 +24,9 @@ per controllare che la vostra logica sui prezzi funzioni correttamente, provate 
 ## Scomposizione in sotto-problemi
 
 ===
+
+Start 
+
 1. Inserimento dati
 
 - Digitare i chilometri da percorrere;
@@ -59,3 +62,5 @@ per controllare che la vostra logica sui prezzi funzioni correttamente, provate 
 8. Verifica
 
 - Confrontare i risultati ottenuti con gli esempi (100 km 10 anni e 100 km 70 anni).
+
+End
